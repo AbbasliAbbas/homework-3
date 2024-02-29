@@ -1,0 +1,220 @@
+.saul{
+   margin-top: 2px;
+  margin-left: -18px;
+  padding: 48px 96px 48px 96px;
+   color: #EEEEEE;
+   font-weight: 700;
+   font-size: 24px;
+   gap: 10px;
+   margin-right: 500px;
+}
+.home{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: #EEEEEE;
+    padding: 28px 66px 28px 66px;
+}
+.sellect{
+       display: flex;
+       flex-direction: row;  
+}
+body{
+    background-color: #222831;
+    
+}
+.container{
+    background-image: url(./Group\ 2376\ \(3\).png);
+    background-repeat: no-repeat;
+    width: 1400px;
+    height: 650px;
+}
+.container .text{
+    font-size: 96px;
+    margin-left: 100px;
+}
+.wrapp{
+    color: #EEEEEE;
+}
+.container{
+    color: #00ADB5;
+}
+button{
+   background-color: #393E46;
+   display: inline;
+   color: #EEEEEE;
+   border-radius: 24px;
+   padding: 10px 32px 10px 32px;
+}
+.button-1{
+    margin-left: 100px;
+   background-color: #00ADB5;
+   color: #EEEEEE;
+}
+.img{
+    width: 15px;
+    height: 15px;
+}
+.img-2{
+    margin-left: 600px;
+}
+.tex{
+    padding: 100px 100px;
+}
+section{
+    display: flex;
+    justify-content: space-around;
+    gap: 179px;
+    height: 100vh;
+}
+.p{
+    font-size: 64px;
+    font-weight: bold;
+    color: #EEEEEE;
+}
+section span{
+    color: #00ADB5;
+}
+.desc{
+    width: 450px;
+    color: #EEEEEE;
+}
+.tex{
+    background-image: url(./Group\ 2376\ \(4\).png);
+    background-repeat: no-repeat;
+    width: 150vh;
+}
+.container-2{
+    background-image: url(./doodle\ items.png);
+    width: 1400px;
+    height: 700px;
+}
+h1{
+    color: #EEEEEE;
+   margin-left: 100px;
+   margin-top: 200px;
+   position: absolute;
+}
+.work{
+    color: #00ADB5;
+}
+.yasil{
+    background-color: #00ADB5;
+}
+.buttons{
+    margin-left: 100px;
+    margin-top: 250px;
+    position: absolute;
+}
+.img-1{
+    margin-left: 100px;
+    margin-top: 300px;
+    position: absolute;
+    margin-top: 350px;
+}
+.img-9{
+    margin-right: 50px;
+}
+.img-10{
+    margin-right: 50px;
+}
+.descraptoin h1{
+    color: #EEEEEE;
+}
+.desc-3{
+    color: #00ADB5;
+}
+.img-18{
+    margin-left: 800px;
+}
+.img-19{
+    margin-top: 100px;
+}
+.paragraph{
+    font-size: 18px;
+    margin-left: 800px;
+    margin-top: 200px;
+    color: #EEEEEE;
+}
+.input{
+   background-color: #393E46;
+   border-radius: 16px;
+   font-size: 18px;
+ margin-right: 10px;
+   padding: 16px 208px 16px 24px;
+   margin-left: 800px;
+   color: #EEEEEE;
+}
+.input-1{
+    font-size: 18px;
+    margin-left: 200px;
+    color: #EEEEEE;
+}
+.input-2{
+    display: flex;
+    flex-direction: row;
+}
+.inpu{
+    background-color: #393E46;
+    border-radius: 16px;
+    font-size: 18px;
+    padding: 16px 208px 16px 24px;
+    color: #EEEEEE;
+
+}
+.optima{
+    margin-left: 800px;
+   color: #EEEEEE;
+   margin-left: 800px; 
+}
+.in{
+    background-color: #393E46;
+    border-radius: 16px;
+    font-size: 18px;
+  margin-right: 10px;
+    padding: 16px 208px 16px 24px;
+    margin-left: 800px;
+    color: #EEEEEE;
+    height: 40vh;
+}
+.send{
+    background-color: #00ADB5;
+    margin-left: 800px;
+}
+.simge{
+   height: 20px;
+   position: absolute;
+   margin-top: 3px;
+}
+.lop{
+    margin-top: 200px;
+    color: #EEEEEE;
+    display: flex;
+    flex-direction: row; 
+    margin-left: 500px;
+}
+.p-1{
+    margin-right: 50px;
+    font-weight: 100;
+}
+.logo{
+    border-radius: 50px;
+    background-color: #393E46;
+    padding: 12px 12px 12px 12px;
+    margin-left: 15px;
+    width: 15px;
+    height: 15px;
+}
+.end{
+    margin-left: 550px;
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+.phone{
+    margin-right: 10px;
+}
+
+
+
+
+
